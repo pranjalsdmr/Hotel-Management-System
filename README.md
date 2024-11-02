@@ -54,10 +54,14 @@ HotelReservationSystem.java file:
 
 1. private static final String DB_URL =
 "jdbc:mysql://localhost:3306/hotel_db";
+
 2.private static final String DB_USER =
 "your_username";
+
 3.private static final String DB_PASSWORD =
 "your_password";
+
 4.Compile and run the application
+
 5. Follow the on-screen menu options to use the
 system.

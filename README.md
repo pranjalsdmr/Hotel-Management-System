@@ -12,18 +12,22 @@ to make reservations:
  Centralized
 A hotel reservation system acts as a central hub for
 managing reservations, room inventory, and rates.
+
  Automated
 A hotel reservation system can automate tasks like
 reservation confirmations, availability management,
 and guest communication.
+
  Integrated
 A hotel reservation system can integrate with other
 software, such as a booking engine and channel
 manager, to ensure rates and availability are up-todate.
+
 Data-driven
 A hotel reservation system can provide hoteliers
 with performance data to help with decision
 making.
+
  Guest experience
 A hotel reservation system can help improve the
 guest experience by providing a quick and functional
@@ -38,13 +42,16 @@ enhances guest management, and keeps your
 business organized.
 
 Getting Started :
+
 Prerequisites :
  Java Development Kit (JDK)
  MySQL Database
  MySQL Connector/J (Java)
+
 Setup :
 Configure your MySQL database settings in the
 HotelReservationSystem.java file:
+
 1. private static final String DB_URL =
 "jdbc:mysql://localhost:3306/hotel_db";
 2.private static final String DB_USER =
